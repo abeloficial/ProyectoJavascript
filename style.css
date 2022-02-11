@@ -1,0 +1,8 @@
+@media (max-width: 320px) {
+
+    #seccion {
+            width: 12rem;
+            display: flex!important;
+    }
+
+}
